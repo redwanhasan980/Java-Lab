@@ -4,9 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48d250da-c80e-48c8-b889-8266bb57453f" name="Changes" comment="Inheritance">
-      <change afterPath="$PROJECT_DIR$/src/Interface/Interfacex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/implimentation.java" afterDir="false" />
+    <list default="true" id="48d250da-c80e-48c8-b889-8266bb57453f" name="Changes" comment="Interface">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandaling/Nested.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandaling/basicTryCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandaling/chained.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandaling/multitrycatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandaling/usethrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/ExtendThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/RunThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/runnableThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UML/OrderProcessing/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UML/OrderProcessing/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UML/OrderProcessing/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UML/OrderProcessing/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UML/StudentProfessor/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UML/StudentProfessor/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UML/StudentProfessor/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UML/StudentProfessor/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UML/StudentProfessor/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,15 +57,24 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Basic.executor": "Run",
     "Application.Interface.Mn.executor": "Run",
     "Application.Intro.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Mn.executor": "Run",
+    "Application.Nested.executor": "Run",
+    "Application.RunThread.executor": "Run",
     "Application.TestStack.executor": "Run",
     "Application.array.executor": "Run",
+    "Application.basicTryCatch.executor": "Run",
+    "Application.chained.executor": "Run",
+    "Application.demo.executor": "Run",
     "Application.man.executor": "Run",
+    "Application.multitrycatch.executor": "Run",
+    "Application.usethrow.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/JavaLab",
@@ -129,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732038401356</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Interface">
+      <option name="closed" value="true" />
+      <created>1732041402655</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732041402655</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,7 +181,8 @@
     <MESSAGE value="Start" />
     <MESSAGE value="Overloading and vararg innerouter" />
     <MESSAGE value="Inheritance" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance" />
+    <MESSAGE value="Interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interface" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

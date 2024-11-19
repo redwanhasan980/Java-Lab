@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48d250da-c80e-48c8-b889-8266bb57453f" name="Changes" comment="Start">
-      <change afterPath="$PROJECT_DIR$/src/BasicCLass/VarArg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicCLass/array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicCLass/innerOuter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Overloading/static2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Overloading/staticex.java" afterDir="false" />
+    <list default="true" id="48d250da-c80e-48c8-b889-8266bb57453f" name="Changes" comment="Overloading and vararg innerouter">
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Abstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Overloading/Coverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Overloading/Coverloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Overloading/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Overloading/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +33,9 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2p49BEWryLDKGGdWDtESvjJvfM0" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -56,7 +55,7 @@
     "onboarding.tips.debug.path": "D:/JavaLab/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Mn">
+  <component name="RunManager">
     <configuration name="Mn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicCLass.Mn" />
       <module name="JavaLab" />
@@ -114,12 +113,32 @@
       <option name="project" value="LOCAL" />
       <updated>1732014363989</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Overloading and vararg innerouter">
+      <option name="closed" value="true" />
+      <created>1732029463811</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732029463811</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Start" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start" />
+    <MESSAGE value="Overloading and vararg innerouter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Overloading and vararg innerouter" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

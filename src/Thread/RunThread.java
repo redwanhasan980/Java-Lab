@@ -9,7 +9,8 @@ public class RunThread {
             runnableThread n3=new runnableThread();
             n3.t.start();
             n2.start();
-
+            System.out.println(n2.getPriority());
+            n2.setPriority(10);
             System.out.println(n3.t.isAlive());
             try{
                 n3.t.join();
@@ -22,7 +23,7 @@ public class RunThread {
             try {
                 for (int i = 0; i < 5; i++) {
                     System.out.println("1 "+i);
-                    Thread.sleep(1000);
+                    Thread.sleep(500);
                 }
             }
             catch (InterruptedException e)

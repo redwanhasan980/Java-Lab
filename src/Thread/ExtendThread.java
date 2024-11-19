@@ -10,7 +10,7 @@ public class ExtendThread extends Thread{
         for (int i = 0; i <3; i++) {
             System.out.println("3 "+i);
             try {
-                Thread.sleep(2000);
+                Thread.sleep(500);
             } catch (InterruptedException e) {
                 throw new RuntimeException(e);
             }

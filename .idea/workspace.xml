@@ -4,27 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48d250da-c80e-48c8-b889-8266bb57453f" name="Changes" comment="Interface">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandaling/Nested.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandaling/basicTryCatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandaling/chained.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandaling/multitrycatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandaling/usethrow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thread/Basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thread/ExtendThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thread/RunThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thread/runnableThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UML/OrderProcessing/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UML/OrderProcessing/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UML/OrderProcessing/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UML/OrderProcessing/Stock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UML/StudentProfessor/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UML/StudentProfessor/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UML/StudentProfessor/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UML/StudentProfessor/Professor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UML/StudentProfessor/Student.java" afterDir="false" />
+    <list default="true" id="48d250da-c80e-48c8-b889-8266bb57453f" name="Changes" comment="Exception UML Thread">
+      <change afterPath="$PROJECT_DIR$/src/Generics/Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/bounded.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/twotype.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Thread/ExtendThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thread/ExtendThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Thread/RunThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thread/RunThread.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +45,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Basic.executor": "Run",
+    "Application.Demo.executor": "Run",
     "Application.Interface.Mn.executor": "Run",
     "Application.Intro.executor": "Run",
     "Application.Main.executor": "Run",
@@ -110,8 +98,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Mn" />
         <item itemvalue="Application.array" />
+        <item itemvalue="Application.Mn" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732041402655</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Exception UML Thread">
+      <option name="closed" value="true" />
+      <created>1732056468785</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732056468785</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,7 +178,8 @@
     <MESSAGE value="Overloading and vararg innerouter" />
     <MESSAGE value="Inheritance" />
     <MESSAGE value="Interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="Interface" />
+    <MESSAGE value="Exception UML Thread" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exception UML Thread" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

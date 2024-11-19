@@ -5,15 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48d250da-c80e-48c8-b889-8266bb57453f" name="Changes" comment="Start">
-      <change afterPath="$PROJECT_DIR$/src/BasicCLass/Contrutorex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicCLass/Intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicCLass/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicCLass/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Overloading/Coverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Overloading/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Overloading/Moverloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicCLass/VarArg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicCLass/array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicCLass/innerOuter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Overloading/static2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Overloading/staticex.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Overloading/Coverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Overloading/Coverloading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Overloading/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Overloading/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +29,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -43,7 +45,9 @@
   "keyToString": {
     "Application.Intro.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Mn.executor": "Run",
     "Application.TestStack.executor": "Run",
+    "Application.array.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -52,6 +56,40 @@
     "onboarding.tips.debug.path": "D:/JavaLab/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Mn">
+    <configuration name="Mn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicCLass.Mn" />
+      <module name="JavaLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicCLass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicCLass.array" />
+      <module name="JavaLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicCLass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Mn" />
+        <item itemvalue="Application.array" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -90,6 +128,11 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BasicCLass/VarArg.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

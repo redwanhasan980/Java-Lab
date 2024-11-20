@@ -4,14 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48d250da-c80e-48c8-b889-8266bb57453f" name="Changes" comment="Exception UML Thread">
-      <change afterPath="$PROJECT_DIR$/src/Generics/Basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/bounded.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/twotype.java" afterDir="false" />
+    <list default="true" id="48d250da-c80e-48c8-b889-8266bb57453f" name="Changes" comment="Generics">
+      <change afterPath="$PROJECT_DIR$/src/Generics/Gmethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LamdaExpressions/Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LamdaExpressions/Gre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LamdaExpressions/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LamdaExpressions/num.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LamdaExpressions/passlamda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LamdaExpressions/strhandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamApi/Simple.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Thread/ExtendThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thread/ExtendThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Thread/RunThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thread/RunThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Generics/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generics/Demo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -52,13 +56,16 @@
     "Application.Mn.executor": "Run",
     "Application.Nested.executor": "Run",
     "Application.RunThread.executor": "Run",
+    "Application.Simple.executor": "Run",
     "Application.TestStack.executor": "Run",
     "Application.array.executor": "Run",
     "Application.basicTryCatch.executor": "Run",
     "Application.chained.executor": "Run",
     "Application.demo.executor": "Run",
     "Application.man.executor": "Run",
+    "Application.mn.executor": "Run",
     "Application.multitrycatch.executor": "Run",
+    "Application.passlamda.executor": "Run",
     "Application.usethrow.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -159,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732056468785</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Generics">
+      <option name="closed" value="true" />
+      <created>1732058791566</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732058791566</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,7 +194,8 @@
     <MESSAGE value="Inheritance" />
     <MESSAGE value="Interface" />
     <MESSAGE value="Exception UML Thread" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exception UML Thread" />
+    <MESSAGE value="Generics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generics" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

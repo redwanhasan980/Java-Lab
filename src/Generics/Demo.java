@@ -1,5 +1,7 @@
 package Generics;
 
+import static Generics.Gmethod.printg;
+
 public class Demo {
     public static void main(String[] args) {
         Basic<Integer>obj;
@@ -14,6 +16,7 @@ public class Demo {
         bounded<Integer> b1=new bounded<>(12);
         System.out.println(b1);
         b1.getOb();
+        System.out.println(printg(125,3));
        // bounded<String>b2=new bounded<String>(); not possible because the Type must inherit Numbers
     }
 
